@@ -1,7 +1,7 @@
 {
-  "parser_version": "c478c6868648eff49eb04a4df90d703dc45b312a",
-  "location": null,
   "lang": "scss",
   "url": "https://github.com/serenadeai/tree-sitter-scss",
-  "semver": false
+  "semver": false,
+  "parser_version": "c478c6868648eff49eb04a4df90d703dc45b312a",
+  "location": null
 }
